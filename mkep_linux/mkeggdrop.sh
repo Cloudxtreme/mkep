@@ -192,7 +192,7 @@ When Eggdrop are on irc simply enter their commands in usual IRC client (E.g. xC
 To access party-line of Eggdrop:
 1)  /chat $NICK
 
-If you find something wrong in the script please share with us, http://code.google.com/p/mkep/
+If you find something wrong in the script please share with us, https://github.com/RuiBranco/mkep
 
 #################################################################"
 "

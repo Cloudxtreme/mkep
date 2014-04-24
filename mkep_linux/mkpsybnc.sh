@@ -104,7 +104,7 @@ To activate psyBNC now simply run the following commands:
 To connect to psyBNC simply enter their commands in usual IRC client (E.g. xChat):
 1)  /server irc.server.org:$PARTYLINEPORT:Password_you_want_for_psyBNC
 
-If you find something wrong in the script please share with us, http://code.google.com/p/mkep/
+If you find something wrong in the script please share with us, https://github.com/RuiBranco/mkep
 
 #################################################################
 "

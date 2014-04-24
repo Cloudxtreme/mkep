@@ -1,3 +1,2 @@
-If you find any bug in the script, please http://code.google.com/p/mkep/
-If you have any doubt, visit #mkep @ irc.fbnet.org
+If you find any bug in the script, please https://github.com/RuiBranco/mkep
 -----------------------------------------------------------------

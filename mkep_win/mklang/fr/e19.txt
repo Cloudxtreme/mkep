@@ -1,3 +1,2 @@
-Si vous trouvez un erreur/bug , envoyez http://code.google.com/p/mkep/ 
-Si vous avez quelque doute, n'hesitez pas à nous visiter au #mkep @ irc.fbnet.org
+Si vous trouvez un erreur/bug , envoyez https://github.com/RuiBranco/mkep
 -----------------------------------------------------------------
