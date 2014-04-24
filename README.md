@@ -1,7 +1,8 @@
 mkep
 ====
 
-Mkep - helps the creation and setup of eggdrops and psybncs.
+Mkep - helps the creation and setup of eggdrops and psybncs.<br>
+Written in bash for two platforms, Windows and Linux.
 
 Features:
 ew
