@@ -1,0 +1,2 @@
+To connect the psyBNC you just have to open your IRC client
+(example. mIRC) and do the following:

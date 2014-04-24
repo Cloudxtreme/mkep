@@ -1,0 +1,29 @@
+set sort-users 0
+set help-path "help/"
+set text-path "text/"
+set temp-path "text/"
+set motd "text/motd"
+set telnet-banner "text/banner"
+set userfile-perm 0600
+######## BOTNET/DCC/TELNET #####
+#set botnet-nick "LlamaBot"
+listen 2332 all
+set remote-boots 2
+set share-unlinks 1
+set protect-telnet 0
+set dcc-sanitycheck 0
+set ident-timeout 5
+set require-p 1
+set open-telnets 0
+set stealth-telnets 0
+set use-telnet-banner 0
+set connect-timeout 15
+set dcc-flood-thr 3
+set telnet-flood 5:60
+set paranoid-telnet-flood 1
+set resolve-timeout 15
+###############################
+
+######ADVANCED SETTINGS########
+set ignore-time 15
+set hourly-updates 00

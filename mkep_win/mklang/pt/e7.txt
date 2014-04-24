@@ -1,0 +1,1 @@
+Indique o servidor de IRC onde o eggdrop se vai ligar (ex. irc.ptnet.org:6667)

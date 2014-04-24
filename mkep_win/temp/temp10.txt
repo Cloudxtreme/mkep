@@ -1,0 +1,44 @@
+set max-notes 50
+set note-life 60
+set allow-fwd 0
+set notify-users 1
+set notify-onjoin 1
+###############################
+
+##########CONSOLE MODULE#######
+loadmodule console
+set console-autosave 1
+set force-channel 0
+set info-party 0
+###############################
+
+##########WOOBIE MODULE########
+#loadmodule woobie
+###############################
+
+##########SEEN MODULE##########
+#loadmodule seen
+###############################
+
+#########BLOWFISH MODULE#######
+checkmodule blowfish
+###############################
+
+#########ASSOC MODULE##########
+#loadmodule assoc
+###############################
+
+###########WIRE MODULE#########
+#loadmodule wire
+###############################
+
+##########UPTIME MODULE########
+loadmodule uptime
+###############################
+
+############SCRIPTS############
+source scripts/alltools.tcl
+source scripts/action.fix.tcl
+source scripts/compat.tcl
+source scripts/userinfo.tcl
+loadhelp userinfo.help

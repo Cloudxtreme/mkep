@@ -1,0 +1,3 @@
+Para se ligar ao psyBNC basta entrar no seu cliente 
+de IRC habitual (ex. mIRC) e fazer:
+

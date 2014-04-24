@@ -1,0 +1,2 @@
+Pour faire la liaison au psyBNC vou devez démarrer votre client 
+de IRC habituel (exemple. mIRC) et faire:

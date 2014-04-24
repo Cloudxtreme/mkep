@@ -1,0 +1,3 @@
+Entrar no seu client de IRC habitual (ex. mIRC) e fazer:
+/msg $NICK hello
+/msg $NICK pass

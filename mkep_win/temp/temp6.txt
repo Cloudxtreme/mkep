@@ -1,0 +1,6 @@
+set ban-time 120
+set exempt-time 60
+set invite-time 60
+set force-expire 0
+set share-greet 0
+set use-info 1

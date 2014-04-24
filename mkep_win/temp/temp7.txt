@@ -1,0 +1,5 @@
+###############################
+
+########SERVER MODULE##########
+loadmodule server
+set net-type 5

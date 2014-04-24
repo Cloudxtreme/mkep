@@ -1,0 +1,12 @@
++-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+
+|m|k|e|g|g|d|r|o|p| |a|n|d| |m|k|p|s|y|b|n|c|
++-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+      
+http://code.google.com/p/mkep/
+                                 
+Options:
+
+       1. Créer une Psybnc                
+       2. Sortir   
+
+       3. Processus tuer 
+           

@@ -1,0 +1,9 @@
+set timezone "EST"
+set offset "5"
+#set my-ip ""
+###############################
+
+###########LOGS################
+set max-logs 11
+set max-logsize 0
+set quick-logs 0

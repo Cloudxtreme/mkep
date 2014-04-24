@@ -1,0 +1,1 @@
+eggdrop's nick (example: My_Bot)

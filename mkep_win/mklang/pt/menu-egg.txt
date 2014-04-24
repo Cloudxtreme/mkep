@@ -1,0 +1,12 @@
++-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+
+|m|k|e|g|g|d|r|o|p| |a|n|d| |m|k|p|s|y|b|n|c|
++-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+      
+http://code.google.com/p/mkep/
+                                 
+Opçoes:
+
+       1. Criar Eggdrop                
+       2. Sair  
+
+       3. Terminar processo                 
+                                 

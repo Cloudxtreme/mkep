@@ -1,0 +1,1 @@
+Serveur pour connecter l'eggdrop (exemple: irc.ptnet.org:6667)

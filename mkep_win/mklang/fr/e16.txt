@@ -1,0 +1,2 @@
+-----------------------------------------------------------------
+Pour activer l'eggdrop vous devez executér les commandes suivants:

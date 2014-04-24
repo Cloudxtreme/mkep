@@ -1,0 +1,1 @@
+Indique o canal (ex. #o_meu_canal)

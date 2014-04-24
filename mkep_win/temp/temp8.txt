@@ -1,0 +1,74 @@
+set keep-nick 1
+set strict-host 0
+set quiet-reject 1
+set lowercase-ctcp 0
+set answer-ctcp 3
+set flood-msg 5:60
+set flood-ctcp 3:60
+set never-give-up 1
+set strict-servernames 0
+set server-cycle-wait 60
+set server-timeout 60
+set servlimit 0
+set check-stoned 1
+set use-console-r 0
+set debug-output 0
+set serverror-quit 1
+set max-queue-msg 300
+set trigger-on-ignore 0
+set double-mode 0
+set double-server 0
+set double-help 0
+set optimize-kicks 1
+###############################
+
+##########CTCP MODULE##########
+loadmodule ctcp
+set ctcp-mode 0
+###############################
+
+###########IRC MODULE##########
+loadmodule irc
+set bounce-bans 1
+set bounce-modes 0
+set max-bans 20
+set max-modes 30
+set kick-fun 0
+set ban-fun 0
+set learn-users 0
+set wait-split 600
+set wait-info 180
+set mode-buf-length 200
+#unbind msg - hello *msg:hello
+#bind msg - myword *msg:hello
+unbind msg - ident *msg:ident
+unbind msg - addhost *msg:addhost
+set no-chanrec-info 0
+###############################
+
+#########TRANSFER MODULE#######
+#loadmodule transfer
+set max-dloads 3
+set dcc-block 1024
+set copy-to-tmp 1
+set xfer-timeout 30
+###############################
+
+#######SHARE MODULE############
+#loadmodule share
+#set allow-resync 0
+#set resync-time 900
+#set private-global 0
+#set private-globals "mnot"
+#set private-user 0
+#set override-bots 0
+###############################
+
+########COMPRESS MODULE########
+#loadmodule compress
+set share-compressed 1
+#set compress-level 9
+###############################
+
+#######FILESYSTEM MODULE#######
+#loadmodule filesys

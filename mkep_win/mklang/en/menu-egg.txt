@@ -1,0 +1,13 @@
++-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+
+|m|k|e|g|g|d|r|o|p| |a|n|d| |m|k|p|s|y|b|n|c|
++-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+      
+http://code.google.com/p/mkep/
+                                 
+Options:
+
+       1. Create an Eggdrop                      
+       2. Exit
+
+
+       3. Kill process                   
+                                 

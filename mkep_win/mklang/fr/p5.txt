@@ -1,0 +1,2 @@
+-----------------------------------------------------------------
+Pour activer la psyBNC vous devez executér les commandes suivants:

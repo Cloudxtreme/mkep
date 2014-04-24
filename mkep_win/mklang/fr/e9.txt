@@ -1,0 +1,1 @@
+Voulez vous utiliser vhost dans l'eggdrop ? [Y/N]

@@ -1,0 +1,1 @@
+Indiquez le canal que l'eggdrop va accéder (exemple: #mon_canal)

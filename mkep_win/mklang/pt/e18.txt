@@ -1,0 +1,2 @@
+Para entrar na party-line
+/chat NICK

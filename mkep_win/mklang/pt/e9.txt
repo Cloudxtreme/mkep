@@ -1,0 +1,1 @@
+Quer utilizar vhost no eggdrop? [Y/N]

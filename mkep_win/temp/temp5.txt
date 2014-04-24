@@ -1,0 +1,25 @@
+set notify-newusers ""
+set default-flags "hp"
+set whois-fields "url birthday"
+set die-on-sighup 0
+set die-on-sigterm 1
+set must-be-owner 1
+unbind dcc n simul *dcc:simul
+set max-dcc 50
+set enable-simul 1
+set allow-dk-cmds 1
+set dupwait-timeout 5
+unbind dcc n tcl *dcc:tcl
+unbind dcc n set *dcc:set
+###############################
+
+###########MODULES#############
+set mod-path "modules/"
+###############################
+
+###########DNS MODULE##########
+loadmodule dns
+###############################
+
+#########CHANNELS MODULE#######
+loadmodule channels

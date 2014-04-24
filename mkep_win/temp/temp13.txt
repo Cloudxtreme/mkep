@@ -1,0 +1,12 @@
+::MONITORING PORT 
+netstat -a | find /C "%port%"
+if %errorlevel% equ 1 (
+cd %folder%
+start %file%
+) ELSE (
+goto exit
+)
+
+::EXIT SCRIPT
+:exit
+exit

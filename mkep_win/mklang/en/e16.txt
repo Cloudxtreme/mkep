@@ -1,0 +1,2 @@
+-----------------------------------------------------------------
+To activate the eggdrop you just have to execute the following commands:

@@ -1,0 +1,8 @@
+set upload-to-pwd 0
+set filedb-path ""
+set max-file-users 20
+set max-filesize 1024
+###############################
+
+#########NOTES MODULE##########
+loadmodule notes

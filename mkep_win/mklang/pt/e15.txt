@@ -1,0 +1,1 @@
+Deseja adicionar o eggdrop ao crontab ? [Y/N]

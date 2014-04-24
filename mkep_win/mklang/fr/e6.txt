@@ -1,0 +1,1 @@
+Nick du propriétaire (owner) de l'eggdrop (exemple: Mon_nick)

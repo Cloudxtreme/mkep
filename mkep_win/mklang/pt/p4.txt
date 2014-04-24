@@ -1,0 +1,1 @@
+Deseja adicionar o Psybnc ao crontab? [Y/N]

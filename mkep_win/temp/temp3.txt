@@ -1,0 +1,12 @@
+set switch-logfiles-at 300
+set log-time 1
+set keep-all-logs 0
+set logfile-suffix ".%d%b%Y"
+set quiet-save 0
+###############################
+
+##########CONSOLE##############
+set console "mkcobxs"
+###############################
+
+#####FILES & DIRECTORIES########
