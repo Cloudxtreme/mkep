@@ -4,8 +4,8 @@
 # https://github.com/RuiBranco/mkep
 # Started 15/5/2002
 
-# ChangeLog
-# 8/4/14 - ADD* improvement code
+
+
 
 
 
